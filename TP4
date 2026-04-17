@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <link rel="stylesheet"href="box.CSS">
+</head>
+<body>
+    <div class="box box1">
+        <img src="arbre.avif" alt="Image 1">
+        <h2>arbre</h2>
+        <p>arbre vert</p>
+        <button>clik here</button>
+    </div>
+    <div class="box box2">
+        <img src="sakora.png" alt="Image 1">
+        <h2>arbre sakora</h2>
+        <p>sakora est une arbra </p>
+        <button>clik here</button>
+    </div>
+    <div class="box box3">
+        <img src="tolib.jpg" alt="Image 1">
+        <h2>la fleur tolib</h2>
+        <p>tolib est une fleur </p>
+        <button>clik here</button>
+    </div>
+    <div class="box box4">
+        <img src="o9howan.jpg" alt="Image 1">
+        <h2>chrysnathème</h2>
+        <p>chrynathème est une fleur </p>
+        <button>clik here</button>
+    </div>
+    <div class="box box5">
+        <img src="narjisse.webp" alt="Image 1">
+        <h2>la fleur narjisse</h2>
+        <p>narjisse est une fleur </p>
+        <button>clik here</button>
+    </div>
+    <div class="box box6">
+        <img src="mercidisse.jpg" alt="Image 1">
+        <h2>mercidisse</h2>
+        <p>mercidisse est un tomobile</p>
+        <button>clik here</button>
+    </div>
+</body>
+</html>    
